@@ -1,7 +1,7 @@
 
 ## データ構造
 
-`人物名/profile.yaml`
+`人物名/プロフィール.yaml`
 ```
 生年月日: date
 所属政党: string
@@ -10,7 +10,7 @@ OfficialTwitterUrl: string
 WikipediaUrl: string
 ```
 
-`人物名/sources.yaml`
+`人物名/ソース.yaml`
 ```
 - url: string
   タイトル: string
